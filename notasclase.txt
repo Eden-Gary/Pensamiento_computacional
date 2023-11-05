@@ -1,0 +1,14 @@
+Solicitar 2 numeros despues mandar a multiplicar el resultado y el usuario adivine 
+1 Inicio
+2 Definir Resultado como Entero
+3 Escribir "Ingresa 1er numero"
+4 leer 1er numero
+5 Escribir "Ingresa 2do numero"
+6 leer 2do numero
+7 Escribir "resultado esperado"
+8 leer resultado esperado 
+9 Escribir "resultado real de la multiplicacion",1er numero*2do numero
+10 leer "resultado real de la multiplicacion"
+11 Escribir "Correcto: ", resultado esperado = resultado real
+12 Fin
+
